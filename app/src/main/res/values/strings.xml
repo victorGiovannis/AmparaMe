@@ -14,6 +14,10 @@
     <string name="txt_button_back">Go Back</string>
     <string name="passwords_are_not_the_same">Passwords are not the same</string>
     <string name="empty_field">empty field</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_hello">Hello Victor,</string>
+    <string name="txt_messenger">What are you looking for today?</string>
+    <string name="txt_pet_wallet">Pet Wallet</string>
+    <string name="txt_register_pet">Register Pet</string>
+    <string name="txt_my_profile">My Profile</string>
+    <string name="txt_my_pets">My Pets</string>
 </resources>

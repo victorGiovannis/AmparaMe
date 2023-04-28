@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmapaMe</string>
+    <string name="hint_username_email">Usuário ou e-mail</string>
+    <string name="hint_password">Senha</string>
+    <string name="txt_forgot_password">Esqueceu a senha?</string>
+    <string name="txt_button_login">Entrar</string>
+    <string name="txt_registration_screen">Não tem uma conta? Inscrever-se</string>
+    <string name="login_failed">"E-mail ou senha inválidos"</string>
+    <string name="txt_register">Criar conta</string>
+    <string name="hint_username">Usuário</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_confirm_password">Confirmar senha</string>
+    <string name="txt_button_confirm">Confirmar</string>
+    <string name="txt_button_back">Voltar</string>
+    <string name="passwords_are_not_the_same">As senhas não são iguais</string>
+    <string name="empty_field">campo vazio</string>
+    <string name="txt_hello">Olá Victor,</string>
+    <string name="txt_messenger">O que você está buscando hoje?</string>
+    <string name="txt_pet_wallet">Carteirinha Pet</string>
+    <string name="txt_register_pet">Registrar Pet</string>
+    <string name="txt_my_profile">Meu Perfil</string>
+    <string name="txt_my_pets">Meus Pets</string>
+</resources>

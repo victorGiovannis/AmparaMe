@@ -31,7 +31,7 @@ class Login : AppCompatActivity() {
         }
 
         binding.txtRegistrationScreen.setOnClickListener {
-            val browseRegisterScreen = Intent(this,Register::class.java)
+            val browseRegisterScreen = Intent(this,Feed::class.java)
             startActivity(browseRegisterScreen)
         }
     }
